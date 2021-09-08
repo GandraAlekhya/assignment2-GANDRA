@@ -34,3 +34,9 @@ The following table describes famous food items that someone should try
 | putharekhulu | Bhimavaram| $60|
 
 
+---
+# PITHY QUOTES
+
+> Life is what happens when you're busy making other plans. -*John Lennon*
+>  When you reach the end of your rope, tie a knot in it and hang on. -*Franklin D. Roosevelt*
+
