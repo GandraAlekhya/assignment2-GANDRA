@@ -20,5 +20,16 @@
     * Playing Cards
     * Food
 
-[Link of AboutMe](https://github.com/GandraAlekhya/assignment2-GANDRA/blob/main/AboutMe.md) 
+[Link to AboutMe](AboutMe.md) 
+
+---
+
+#FOOD TABLE
+The following table describes famous food items that someone should try
+| Name | Location | Cost |
+| --- | --- | --- |
+| Jilebhi | Karimnagar| $4ss0 |
+| Pani Puri | Warangal| $20 |
+| putharekhulu | Bhimavaram| $60|
+
 
