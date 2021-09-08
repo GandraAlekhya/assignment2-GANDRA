@@ -24,7 +24,8 @@
 
 ---
 
-#FOOD TABLE
+# FOOD TABLE
+
 The following table describes famous food items that someone should try
 | Name | Location | Cost |
 | --- | --- | --- |
