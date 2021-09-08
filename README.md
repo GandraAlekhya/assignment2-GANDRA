@@ -28,7 +28,7 @@
 The following table describes famous food items that someone should try
 | Name | Location | Cost |
 | --- | --- | --- |
-| Jilebhi | Karimnagar| $4ss0 |
+| Jilebhi | Karimnagar| $40 |
 | Pani Puri | Warangal| $20 |
 | putharekhulu | Bhimavaram| $60|
 
