@@ -32,6 +32,7 @@ The following table describes famous food items that someone should try
 | Jilebhi | Karimnagar| $40 |
 | Pani Puri | Warangal| $20 |
 | putharekhulu | Bhimavaram| $60|
+| Rasagulla | cuddapah | $30|
 
 
 ---
